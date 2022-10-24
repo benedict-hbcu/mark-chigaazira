@@ -40,7 +40,7 @@ public class Main {
         String wordIn = "";
         String word = Util.getRandomWord();
         Main newObj = new Main();
-
+//check if main is workingf
 
         while (userAttempts <= 6 || !(wordIn.equals(word))) {
             System.out.println("Enter fiver letter word!");
